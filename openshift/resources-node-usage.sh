@@ -1,4 +1,5 @@
 #!/bin/bash
+# Tested in Openshift v4.9
 
 # printf colors: ->
 BLACK=$(tput setaf 0)
